@@ -1,12 +1,11 @@
 # Hi there, I'm Shahd 👋
 
-🎓 **Final Year Computer Science Student** @ Damietta University  
-💻 **Specializing in:** Machine Learning | Software Engineering | Problem Solving  
-📍 Egypt  
+**Final Year Computer Science Student**
+**Specializing in:** Machine Learning | Software Engineering | Problem Solving  
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### Tech Stack & Skills
 
 - **Languages:** C++, Python, C#, JavaScript, TypeScript, SQL
 - **Frameworks & Web:** .NET / ASP.NET Core, React, Node.js, Tailwind CSS
@@ -15,11 +14,11 @@
 
 ---
 
-### 📌 Featured Projects
+### Featured Projects
 
-- 🤖 **Tech Job & Skill Matching System:** AI-powered matching platform built using React, Node.js, & Machine Learning models.
-- 🔄 **Skill Exchange System:** Web platform designed with C# & .NET for peer-to-peer skill sharing.
-- 💡 **Competitive Programming:** Optimized C++ solutions for problems on Codeforces & LeetCode.
+- **Tech Job & Skill Matching System:** AI-powered matching platform built using React, Node.js, & Machine Learning models.
+- **Skill Exchange System:** Web platform designed with C# & .NET for peer-to-peer skill sharing.
+- **Competitive Programming:** Optimized C++ solutions for problems on Codeforces & LeetCode.
 
 ---
 
