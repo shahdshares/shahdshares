@@ -45,6 +45,11 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
+### Tools & Technologies
+
+[![Git](https://img.shields.io/badge/GIT-E14329?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![PlantUML](https://img.shields.io/badge/PLANTUML-000000?style=for-the-badge&logo=plantuml&logoColor=white)](https://plantuml.com/)
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=shahdshares.shahdshares)
 
