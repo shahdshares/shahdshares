@@ -58,3 +58,8 @@
 
 
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contrib" width="100%">
+
+
+<p align="center">
+  <img src="./github-metrics.svg" alt="Metrics" width="100%" />
+</p>
