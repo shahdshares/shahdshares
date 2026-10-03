@@ -27,3 +27,11 @@
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/shahdnossier255)
 [<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />](https://leetcode.com/u/0xShahdN0ss1er/)
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shahdshares&show_icons=true&theme=dark" alt="Shahd's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahdshares&layout=compact&theme=dark" alt="Top Languages" />
+</p>
