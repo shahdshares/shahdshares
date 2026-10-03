@@ -55,3 +55,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=shahdshares&show_icons=true&theme=dark" alt="Shahd's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahdshares&layout=compact&theme=dark" alt="Top Languages" />
 </p>
+
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contrib" width="100%">
